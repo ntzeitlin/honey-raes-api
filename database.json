@@ -81,6 +81,12 @@
             "specialty": "Printer Repair",
             "rate": 29.45,
             "userId": 6
+        },
+        {
+            "id": 4,
+            "specialty": "Server Repair",
+            "rate": 100.78,
+            "userId": 7
         }
     ],
     "serviceTickets": [
